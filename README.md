@@ -4,8 +4,8 @@ final me = Developer(
   fullName: "Mazine Abajlal",
 
   about: {
-    "Age": 21,
-    "City": "Meknes",
+    "age": 21,
+    "city": "Meknes",
     "email": "mazinabjlal@gmail.com",
     "company": "MedYouIn",
     "role": "Flutter Developer",
